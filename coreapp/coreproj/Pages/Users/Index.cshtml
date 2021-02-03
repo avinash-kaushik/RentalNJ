@@ -1,0 +1,37 @@
+﻿@page
+@model coreproj.Pages.Users.IndexModel
+@{
+    ViewData["Title"] = "User List";
+}
+<style>
+    .btn {
+        width: 75px;
+    }
+</style>
+<h1>Users List</h1>
+
+<a asp-page="/Users/Create">Create new User</a>
+<div class="card-deck">
+    @foreach (var user in Model.users)
+    {
+        //var imagepath = "~/images/" + applicant.image;
+        <div class="card m-3" style="min-width:18rem; max-width:30.5%">
+            <div class="card-header">
+                <h3>@user.Fname</h3>
+            </div>
+
+            @*@foreach (var item in user.AddressDet)
+                {
+                    <h2>@item.City.Name</h2>
+                }*@
+
+            <div class="card-footer text-center">
+                <a asp-page="/Users/Details" asp-route-ID="@user.Id"
+                   class="btn btn-primary m-1">View</a>
+                <a asp-page="/Users/Edit" asp-route-ID="@user.Id"
+                   class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-primary m-1">Delete</a>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,513 @@
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.exe
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.deps.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.dev.json
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.dll
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.pdb
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.dll
+C:\App\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csprojAssemblyReference.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CoreCompileInputs.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.MvcApplicationPartsAssemblyInfo.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfoInputs.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfo.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.input.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.output.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorCoreGenerate.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cs
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.Manifest.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.xml
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.dll
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.pdb
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.genruntimeconfig.cache
+C:\App\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CopyComplete
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.exe
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.deps.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.dev.json
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.pdb
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csprojAssemblyReference.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfoInputs.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfo.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.input.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.output.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorCoreGenerate.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.Manifest.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.xml
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.dll
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.pdb
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.genruntimeconfig.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CopyComplete
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CoreCompileInputs.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.MvcApplicationPartsAssemblyInfo.cache
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\DetailsError.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.exe
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.deps.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.dev.json
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.pdb
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csprojAssemblyReference.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CoreCompileInputs.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfoInputs.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfo.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.input.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.output.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorCoreGenerate.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\DetailsError.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cs
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.Views.pdb
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CopyComplete
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.Manifest.cache
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.xml
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.dll
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.pdb
+C:\Udemy\App\coreapp - 1\coreproj\obj\Debug\netcoreapp3.1\coreproj.genruntimeconfig.cache
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.exe
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.deps.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.dev.json
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.pdb
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.pdb
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csprojAssemblyReference.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfoInputs.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfo.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.input.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.output.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorCoreGenerate.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\DetailsError.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.Views.pdb
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CopyComplete
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.Manifest.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.xml
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.dll
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.pdb
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.genruntimeconfig.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\ApplicantPage\Index.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\ApplicantPage\Create.cshtml.g.cs
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CoreCompileInputs.cache
+D:\Downloads\core-appNew\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Downloads\core-appNew\coreapp\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.exe
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.deps.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.runtimeconfig.dev.json
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreproj.Views.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreapp.Models.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreapp.Services.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreapp.Models.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\bin\Debug\netcoreapp3.1\coreapp.Services.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csprojAssemblyReference.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfoInputs.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.AssemblyInfo.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CoreCompileInputs.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.MvcApplicationPartsAssemblyInfo.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorAssemblyInfo.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.input.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.TagHelpers.output.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorCoreGenerate.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Details.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Edit.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Index.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.RazorTargetAssemblyInfo.cs
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.Views.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.csproj.CopyComplete
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.Manifest.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\staticwebassets\coreproj.StaticWebAssets.xml
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.dll
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.pdb
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\coreproj.genruntimeconfig.cache
+D:\Avinash\RentalNJ\coreapp\coreproj\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Create.cshtml.g.cs

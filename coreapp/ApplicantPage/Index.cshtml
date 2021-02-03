@@ -1,0 +1,26 @@
+﻿@page
+@model coreproj.Pages.ApplicantPage.IndexModel
+@{
+    ViewData["Title"] = "Applicant Home page";
+}
+<div class="text-center">
+    <h1 class="display-4">This is a demo application</h1>
+</div>
+
+<a asp-page="./Create">Add new Applicant</a></br>
+<table class="table">
+    @foreach (var applicant in Model.applicantobj)
+    {
+        <tr>
+            <td>@applicant.Id</td>
+            <td>@applicant.FirstName</td>   
+            <td>@applicant.LastName</td>
+            <td>
+                <a asp-page="./Details" asp-route-Id="@applicant.Id">Details</a>
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-Id="@applicant.Id">Edit</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,84 @@
+﻿@page "{id:min(1)}"
+@model coreproj.Pages.Users.EditModel
+@{
+}
+
+<h1>Edit User</h1>
+<form method="post" class="mt-3">
+    <input hidden asp-for="user.Id" />
+
+    <div class="form-group row">
+        <label asp-for="user.Fname" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Fname" class="form-control" placeholder="FirstName" />
+        </div>
+
+        <label asp-for="user.Lname" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Lname" class="form-control" placeholder="LastName" />
+        </div>
+
+        <label asp-for="user.PriTelNo" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.PriTelNo" class="form-control" placeholder="PriTelNo" />
+        </div>
+
+        <label asp-for="user.SecTelNo" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.SecTelNo" class="form-control" placeholder="SecTelNo" />
+        </div>
+        <label asp-for="user.Email" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Email" class="form-control" placeholder="Email Address" />
+        </div>
+        <label asp-for="user.UserType" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <select asp-for="user.UserTypeId" class="form-control"
+                    asp-items="@Model.userTypeList">
+                <option value="">-- Select --</option>
+            </select>
+        </div>
+
+        <div>
+            Adddress details
+            <div class="invisible">
+                <input asp-for="user.AddressDet.Id" />
+            </div>
+        </div>
+
+
+        <div class="row">
+            <label asp-for="user.AddressDet.BldgNo" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.BldgNo" class="form-control" />
+            </div>
+            <label asp-for="user.AddressDet.LeasingOfficeName" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.LeasingOfficeName" class="form-control" placeholder="LeasingOfficeName" />
+            </div>
+            <label asp-for="user.AddressDet.StreetAddress" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.StreetAddress" class="form-control" placeholder="StreetAddress" />
+            </div>
+            <label asp-for="user.AddressDet.City" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <select asp-for="user.AddressDet.CityId" class="form-control"
+                        asp-items="@Model.cityList">
+                    <option value="">-- Select --</option>
+                </select>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="form-group row">
+        <div class="col-sm-10">
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-page="/Users/Index" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+
+    @section scripts{
+        <partial name="_ValidationScriptsPartial" />
+    }
+</form>

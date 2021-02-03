@@ -1,0 +1,52 @@
+﻿@page "{id:min(1)}"
+@model coreproj.Pages.Users.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.user.Fname</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <h4>@Model.user.Fname</h4>
+                <h4>@Model.user.Lname</h4>
+                <h4>@Model.user.PriTelNo</h4>
+                <h4>@Model.user.SecTelNo</h4>
+                <h4>@Model.user.Email</h4>
+            </div>
+
+            @*@foreach (var item in @Model.user.AddressDet)
+            {
+                <div style="min-width:18rem; max-width:30.5%">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm">
+                                @item.BldgNo
+                            </div>
+                            <div class="col-sm">
+                                @item.LeasingOfficeName
+                            </div>
+                            <div class="col-sm">
+                                @item.StreetAddress
+                            </div>
+                            <div class="col-sm">
+                                @item.City.Name
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }*@
+            <div class="card-footer text-center">
+
+                <a asp-page="/Users/Edit" asp-route-ID="@Model.user.Id"
+                   class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-primary m-1">Delete</a>
+            </div>
+
+        </div>
+    </div>
+</div>

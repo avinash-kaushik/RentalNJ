@@ -1,0 +1,78 @@
+﻿
+@page
+@model coreproj.Pages.Users.CreateModel
+@Html.ValidationSummary()
+@{
+    ViewData["Title"] = "Create User -";
+}
+@using Microsoft.AspNetCore.Mvc.Rendering;
+
+<h1>Creating a new User</h1>
+
+<form method="post">
+    <div class="form-group row">
+        <label asp-for="user.Fname" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Fname" class="form-control" placeholder="FirstName" />
+        </div>
+
+        <label asp-for="user.Lname" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Lname" class="form-control" placeholder="LastName" />
+        </div>
+
+        <label asp-for="user.PriTelNo" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.PriTelNo" class="form-control" placeholder="PriTelNo" />
+        </div>
+
+        <label asp-for="user.SecTelNo" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.SecTelNo" class="form-control" placeholder="SecTelNo" />
+        </div>
+        <label asp-for="user.Email" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <input asp-for="user.Email" class="form-control" placeholder="Email Address" />
+        </div>
+        <label asp-for="user.UserType" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-2">
+            <select asp-for="user.UserTypeId" class="form-control"
+                    asp-items="@Model.userTypeList">
+                <option value="">-- Select --</option>
+            </select>
+        </div>
+
+        <div>
+            Adddress details
+        </div>
+
+
+        <div class="row">
+            <label asp-for="user.AddressDet.BldgNo" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.BldgNo" class="form-control" />
+            </div>
+            <label asp-for="user.AddressDet.LeasingOfficeName" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.LeasingOfficeName" class="form-control" placeholder="LeasingOfficeName" />
+            </div>
+            <label asp-for="user.AddressDet.StreetAddress" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <input asp-for="user.AddressDet.StreetAddress" class="form-control" placeholder="StreetAddress" />
+            </div>
+
+            <label asp-for="user.AddressDet.City" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-2">
+                <select asp-for="user.AddressDet.CityId" class="form-control"
+                        asp-items="@Model.cityList">
+                    <option value="">-- Select --</option>
+                </select>
+            </div>
+            <div class="col-sm-2">
+                <button type="submit"> Save</button>
+            </div>
+            @section scripts{
+                <partial name="_ValidationScriptsPartial" />
+            }
+</form>
+

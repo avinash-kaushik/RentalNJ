@@ -1,0 +1,12 @@
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\bin\Debug\netstandard2.0\coreapp.Services.deps.json
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\bin\Debug\netstandard2.0\coreapp.Services.dll
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\bin\Debug\netstandard2.0\coreapp.Services.pdb
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\bin\Debug\netstandard2.0\coreapp.Models.dll
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\bin\Debug\netstandard2.0\coreapp.Models.pdb
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.csprojAssemblyReference.cache
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.AssemblyInfoInputs.cache
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.AssemblyInfo.cs
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.csproj.CoreCompileInputs.cache
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.csproj.CopyComplete
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.dll
+D:\Avinash\RentalNJ\coreapp\coreapp.Services\obj\Debug\netstandard2.0\coreapp.Services.pdb
