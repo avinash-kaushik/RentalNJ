@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace corewebapi.Model
+namespace corewebapi.Models
 {
     [Table("Address_Det")]
     public partial class AddressDet

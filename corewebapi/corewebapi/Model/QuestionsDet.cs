@@ -5,22 +5,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace corewebapi.Model
 {
-    [Table("Site_Det")]
-    public partial class SiteDet
+    [Table("Questions_Det")]
+    public partial class QuestionsDet
     {
-        public SiteDet()
-        {
-            AddressDet = new HashSet<AddressDet>();
-        }
-
         [Key]
-        [Column("Site_ID")]
-        public int SiteId { get; set; }
-        [StringLength(50)]
+        [Column("ID")]
+        public int Id { get; set; }
+        [StringLength(500)]
         public string Desc { get; set; }
-        public byte[] Logo { get; set; }
-        [StringLength(30)]
-        public string State { get; set; }
         [Column("created_dt", TypeName = "datetime")]
         public DateTime? CreatedDt { get; set; }
         [Column("created_by")]
@@ -31,8 +23,5 @@ namespace corewebapi.Model
         [Column("updated_by")]
         [StringLength(10)]
         public string UpdatedBy { get; set; }
-
-        [InverseProperty("Site")]
-        public virtual ICollection<AddressDet> AddressDet { get; set; }
     }
 }

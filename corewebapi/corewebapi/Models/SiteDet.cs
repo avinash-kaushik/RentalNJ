@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace corewebapi.Model
+namespace corewebapi.Models
 {
     [Table("Site_Det")]
     public partial class SiteDet
@@ -11,6 +11,7 @@ namespace corewebapi.Model
         public SiteDet()
         {
             AddressDet = new HashSet<AddressDet>();
+            CityDet = new HashSet<CityDet>();
         }
 
         [Key]
@@ -34,5 +35,7 @@ namespace corewebapi.Model
 
         [InverseProperty("Site")]
         public virtual ICollection<AddressDet> AddressDet { get; set; }
+        [InverseProperty("Site")]
+        public virtual ICollection<CityDet> CityDet { get; set; }
     }
 }

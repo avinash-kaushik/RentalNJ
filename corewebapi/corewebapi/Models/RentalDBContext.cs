@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace corewebapi.Model
+namespace corewebapi.Models
 {
     public partial class RentalDBContext : DbContext
     {
@@ -16,6 +16,7 @@ namespace corewebapi.Model
         }
 
         public virtual DbSet<AddressDet> AddressDet { get; set; }
+        public virtual DbSet<CityDet> CityDet { get; set; }
         public virtual DbSet<CustDet> CustDet { get; set; }
         public virtual DbSet<QuestionsDet> QuestionsDet { get; set; }
         public virtual DbSet<RolesDet> RolesDet { get; set; }
@@ -24,15 +25,14 @@ namespace corewebapi.Model
         public virtual DbSet<SiteDet> SiteDet { get; set; }
         public virtual DbSet<UserDet> UserDet { get; set; }
         public virtual DbSet<UsrRoleMap> UsrRoleMap { get; set; }
-        public virtual DbSet<CityDet> CityDet { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-//            if (!optionsBuilder.IsConfigured)
-//            {
-//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-//                optionsBuilder.UseSqlServer("Server=HIBACL145740;Database=RentalDB;User ID=sanew;password=Password@123;Trusted_Connection=True;");
-//            }
+            if (!optionsBuilder.IsConfigured)
+            {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+                optionsBuilder.UseSqlServer("Server=HIBACL145740;Database=RentalDB;User ID=sanew;password=Password@123;Trusted_Connection=True;");
+            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -67,12 +67,23 @@ namespace corewebapi.Model
                     .HasConstraintName("address_det_site_fk");
             });
 
+            modelBuilder.Entity<CityDet>(entity =>
+            {
+                entity.Property(e => e.Name).IsUnicode(false);
+
+                entity.Property(e => e.State).IsUnicode(false);
+
+                entity.Property(e => e.Zipcode).IsUnicode(false);
+
+                entity.HasOne(d => d.Site)
+                    .WithMany(p => p.CityDet)
+                    .HasForeignKey(d => d.SiteId)
+                    .HasConstraintName("city_det_site_fk");
+            });
+
             modelBuilder.Entity<CustDet>(entity =>
             {
-                entity.HasKey(e => new { e.Id, e.AddressId })
-                    .HasName("Cust_Det_comp_key");
-
-                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+                entity.HasNoKey();
 
                 entity.Property(e => e.AltEmail).IsUnicode(false);
 
@@ -82,9 +93,13 @@ namespace corewebapi.Model
 
                 entity.Property(e => e.Fname).IsUnicode(false);
 
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
+
                 entity.Property(e => e.Lname).IsUnicode(false);
 
-                entity.Property(e => e.Passwd).IsUnicode(false);
+                entity.Property(e => e.PriTelNo).IsUnicode(false);
+
+                entity.Property(e => e.SecTelNo).IsUnicode(false);
 
                 entity.Property(e => e.UpdatedBy).IsUnicode(false);
             });

@@ -3,24 +3,22 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace corewebapi.Model
+namespace corewebapi.Models
 {
-    [Table("Site_Det")]
-    public partial class SiteDet
+    [Table("roles_det")]
+    public partial class RolesDet
     {
-        public SiteDet()
-        {
-            AddressDet = new HashSet<AddressDet>();
-        }
-
         [Key]
-        [Column("Site_ID")]
-        public int SiteId { get; set; }
-        [StringLength(50)]
-        public string Desc { get; set; }
-        public byte[] Logo { get; set; }
+        [Column("ID")]
+        public int Id { get; set; }
+        [Column("ROle_cd")]
+        [StringLength(10)]
+        public string RoleCd { get; set; }
+        [Column("Role_Desc")]
         [StringLength(30)]
-        public string State { get; set; }
+        public string RoleDesc { get; set; }
+        [Column("Role_Act_Ir")]
+        public int? RoleActIr { get; set; }
         [Column("created_dt", TypeName = "datetime")]
         public DateTime? CreatedDt { get; set; }
         [Column("created_by")]
@@ -31,8 +29,5 @@ namespace corewebapi.Model
         [Column("updated_by")]
         [StringLength(10)]
         public string UpdatedBy { get; set; }
-
-        [InverseProperty("Site")]
-        public virtual ICollection<AddressDet> AddressDet { get; set; }
     }
 }

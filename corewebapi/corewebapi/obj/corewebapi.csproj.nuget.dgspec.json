@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Avinash\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj": {}
+    "D:\\RentalNJ\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj": {}
   },
   "projects": {
-    "D:\\Avinash\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj": {
+    "D:\\RentalNJ\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Avinash\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj",
+        "projectUniqueName": "D:\\RentalNJ\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj",
         "projectName": "corewebapi",
-        "projectPath": "D:\\Avinash\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj",
-        "packagesPath": "C:\\Users\\kaushiav\\.nuget\\packages\\",
-        "outputPath": "D:\\Avinash\\RentalNJ\\corewebapi\\corewebapi\\obj\\",
+        "projectPath": "D:\\RentalNJ\\RentalNJ\\corewebapi\\corewebapi\\corewebapi.csproj",
+        "packagesPath": "C:\\Users\\inakaushik\\.nuget\\packages\\",
+        "outputPath": "D:\\RentalNJ\\RentalNJ\\corewebapi\\corewebapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\kaushiav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inakaushik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -25,11 +25,12 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://pkgs.dev.azure.com/avinpapa/app-Project/_packaging/appfeed29/nuget/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -67,6 +69,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "Swashbuckle": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
@@ -87,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

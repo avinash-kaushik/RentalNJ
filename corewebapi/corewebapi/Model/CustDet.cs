@@ -5,8 +5,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace corewebapi.Model
 {
-    [Table("User_Det")]
-    public partial class UserDet
+    [Table("Cust_Det")]
+    public partial class CustDet
     {
         [Key]
         [Column("ID")]
@@ -21,9 +21,9 @@ namespace corewebapi.Model
         [StringLength(50)]
         public string Lname { get; set; }
         [Column("pri_Tel_No")]
-        public int? PriTelNo { get; set; }
+        public string PriTelNo { get; set; }
         [Column("Sec_Tel_No")]
-        public int? SecTelNo { get; set; }
+        public string SecTelNo { get; set; }
         [Column("email")]
         [StringLength(30)]
         public string Email { get; set; }
@@ -38,6 +38,8 @@ namespace corewebapi.Model
         public DateTime? Dob { get; set; }
         [Column("Acv_Ir")]
         public int? AcvIr { get; set; }
+        [Column("Reg_Dt", TypeName = "datetime")]
+        public DateTime? RegDt { get; set; }
         [Column("created_dt", TypeName = "datetime")]
         public DateTime? CreatedDt { get; set; }
         [Column("created_by")]
