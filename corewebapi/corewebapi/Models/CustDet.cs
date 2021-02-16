@@ -8,6 +8,7 @@ namespace corewebapi.Models
     [Table("Cust_Det")]
     public partial class CustDet
     {
+        [Key]
         [Column("ID")]
         public int Id { get; set; }
         [Column("Address_ID")]
@@ -30,8 +31,8 @@ namespace corewebapi.Models
         [Column("Alt_email")]
         [StringLength(30)]
         public string AltEmail { get; set; }
-        [MaxLength(200)]
-        public byte[] Passwd { get; set; }
+        [StringLength(50)]
+        public string Passwd { get; set; }
         [Column("Is_Verified")]
         public int? IsVerified { get; set; }
         [Column("DOB", TypeName = "datetime")]
@@ -50,5 +51,9 @@ namespace corewebapi.Models
         [Column("updated_by")]
         [StringLength(10)]
         public string UpdatedBy { get; set; }
+
+        [ForeignKey(nameof(AddressId))]
+        [InverseProperty(nameof(AddressDet.CustDet))]
+        public virtual AddressDet Address { get; set; }
     }
 }

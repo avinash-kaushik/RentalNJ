@@ -81,6 +81,13 @@ ADD CONSTRAINT Address_det_user_fk
 GO
    
 
+Go 
 
+--Alter script
+EXEC sp_RENAME 'User_Type.User_Type' , 'description', 'COLUMN'
+go
 
-   
+Alter table User_Det alter column pri_Tel_No nvarchar(12)
+go
+Alter table User_Det alter column Sec_Tel_No nvarchar(12)
+go

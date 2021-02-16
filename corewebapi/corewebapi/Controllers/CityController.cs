@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using corewebapi.Model;
+using corewebapi.Models;
 
 namespace corewebapi.Controllers
 {
@@ -28,6 +28,7 @@ namespace corewebapi.Controllers
         }
 
         // GET: api/Courses/5
-        
+
+       
     }
 }

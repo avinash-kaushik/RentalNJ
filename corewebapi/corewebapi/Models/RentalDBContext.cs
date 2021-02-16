@@ -28,11 +28,11 @@ namespace corewebapi.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=HIBACL145740;Database=RentalDB;User ID=sanew;password=Password@123;Trusted_Connection=True;");
-            }
+//            if (!optionsBuilder.IsConfigured)
+//            {
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+//                optionsBuilder.UseSqlServer("Server=HIBACL145740;Database=RentalDB;User ID=sanew;password=Password@123;Trusted_Connection=True;");
+//            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -83,8 +83,6 @@ namespace corewebapi.Models
 
             modelBuilder.Entity<CustDet>(entity =>
             {
-                entity.HasNoKey();
-
                 entity.Property(e => e.AltEmail).IsUnicode(false);
 
                 entity.Property(e => e.CreatedBy).IsUnicode(false);
@@ -93,8 +91,6 @@ namespace corewebapi.Models
 
                 entity.Property(e => e.Fname).IsUnicode(false);
 
-                entity.Property(e => e.Id).ValueGeneratedOnAdd();
-
                 entity.Property(e => e.Lname).IsUnicode(false);
 
                 entity.Property(e => e.PriTelNo).IsUnicode(false);
@@ -102,6 +98,12 @@ namespace corewebapi.Models
                 entity.Property(e => e.SecTelNo).IsUnicode(false);
 
                 entity.Property(e => e.UpdatedBy).IsUnicode(false);
+
+                entity.HasOne(d => d.Address)
+                    .WithMany(p => p.CustDet)
+                    .HasForeignKey(d => d.AddressId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK__Cust_Det__Addres__14270015");
             });
 
             modelBuilder.Entity<QuestionsDet>(entity =>

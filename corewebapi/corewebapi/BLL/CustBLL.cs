@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using corewebapi.Model;
+using corewebapi.Models;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,15 +21,15 @@ namespace corewebapi.BLL
             throw new NotImplementedException();
         }
 
-        public List<CustDet> getCustomer(int id)
-        {
-            List<CustDet> result = new List<CustDet>();
-            using (_context)
-            {
-                var param = new SqlParameter("@Id", id);
-                result = _context.CustDet.FromSqlRaw("GetCust @Id", param).ToList();
-            }
-            return result;
-        }
+        //public List<CustDet> getCustomer(int id)
+        //{
+        //    List<CustDet> result = new List<CustDet>();
+        //    using (_context)
+        //    {
+        //        var param = new SqlParameter("@Id", id);
+        //        result = _context.CustDet.FromSqlRaw("GetCust @Id", param).ToList();
+        //    }
+        //    return result;
+        //}
     }
 }

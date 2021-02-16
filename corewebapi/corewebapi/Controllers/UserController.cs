@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using corewebapi.Model;
+using corewebapi.Models;
 
 namespace corewebapi.Controllers
 {
@@ -33,17 +33,17 @@ namespace corewebapi.Controllers
         //[HttpGet("{id:int}")]
         //public async Task<ActionResult<UserDet>> Get(int id)
         //{
-        //    //var user = await _context.UserDet.Include(x => x.AddressDet)
-        //    //                             .ThenInclude(AddressDet => AddressDet.City)
-        //    //                             .Include(x => x.UserType)
-        //    //                            .FirstOrDefaultAsync(x => x.Id == id);
+        //    var user = await _context.UserDet.Include(x => x.AddressDet)
+        //                                 .ThenInclude(AddressDet => AddressDet.City)
+        //                                 .Include(x => x.UserType)
+        //                                .FirstOrDefaultAsync(x => x.Id == id);
 
-        //    //if (user == null)
-        //    //{
-        //    //    return NotFound();
-        //    //}
+        //    if (user == null)
+        //    {
+        //        return NotFound();
+        //    }
 
-        //    //return user;
+        //    return user;
         //}
 
         //public async Task<IActionResult> Put(UserDet user)

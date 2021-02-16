@@ -8,6 +8,11 @@ namespace corewebapi.Models
     [Table("Address_Det")]
     public partial class AddressDet
     {
+        public AddressDet()
+        {
+            CustDet = new HashSet<CustDet>();
+        }
+
         [Key]
         [Column("ID")]
         public int Id { get; set; }
@@ -52,5 +57,7 @@ namespace corewebapi.Models
         [ForeignKey(nameof(SiteId))]
         [InverseProperty(nameof(SiteDet.AddressDet))]
         public virtual SiteDet Site { get; set; }
+        [InverseProperty("Address")]
+        public virtual ICollection<CustDet> CustDet { get; set; }
     }
 }
