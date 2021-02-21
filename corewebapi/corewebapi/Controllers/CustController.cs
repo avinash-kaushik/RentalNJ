@@ -48,25 +48,51 @@ namespace corewebapi.Controllers
         [HttpPost]
         public async Task<ActionResult> PostUser(CustDet cust)
         {
-            //post user
-            using (_context)
+            try
             {
-                // check if custid exists
-
-                if (!CustExists(cust.Id))
+                int addressId = 0;
+                //post user
+                using (_context)
                 {
-                    _context.CustDet.Add(cust);
-                }
-                else
-                {
-                    cust.UpdatedDt = DateTime.Now;
-                    _context.Entry(cust).State = EntityState.Modified;
+                    // check address
+                    AddressDet address = cust.Address;
+                    // check address exists
+                    //if (AddressExists(address) == 0)
+                    //{
+                    //    _context.AddressDet.Add(address);
+                    //    await _context.SaveChangesAsync();
+                    //}
+
+                    addressId = address.Id;
+                    // check if custid exists
+                    cust.AddressId = addressId;
+
+                    if (!CustExists(cust.Id))
+                    {
+                        int retAddressId = 0;
+                        retAddressId = AddressExists(address);
+                        if (retAddressId > 0)
+                        {
+                            cust.AddressId = retAddressId;
+                            cust.Address = null;
+                        }
+                        _context.CustDet.Add(cust);
+                    }
+                    else
+                    {
+                        cust.UpdatedDt = DateTime.Now;
+                        _context.Entry(cust).State = EntityState.Modified;
+                    }
+
+                    await _context.SaveChangesAsync();
                 }
 
-                await _context.SaveChangesAsync();
+                return CreatedAtAction("GetCust", new { id = cust.Id }, cust);
             }
-
-            return CreatedAtAction("GetCust", new { id = cust.Id }, cust);
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         // GET: api/Courses/5
@@ -76,13 +102,19 @@ namespace corewebapi.Controllers
             return _context.CustDet.Any(e => e.Id == id);
         }
 
-        private bool AddressExists(AddressDet address)
+        private int AddressExists(AddressDet address)
         {
-            bool retValue = false;
-            return _context.AddressDet.Any(e => e.Zipcode == address.Zipcode && e.City == address.City && e.State == address.State
-                                           && e.LeasingOfficeName == address.LeasingOfficeName && e.BldgNo == address.BldgNo
-                                           && e.AddType == address.AddType && e.StreetAddress1 == address.StreetAddress1
-                                           && e.StreetAddress2 == address.StreetAddress2 && e.AptNo == address.AptNo);
+            int addressid = 0;
+            AddressDet address1;
+            address1 = _context.AddressDet.Where(e => e.Zipcode == address.Zipcode && e.City == address.City && e.State == address.State
+                                            && e.LeasingOfficeName == address.LeasingOfficeName && e.BldgNo == address.BldgNo
+                                            && e.AddType == address.AddType && e.StreetAddress1 == address.StreetAddress1
+                                            && e.StreetAddress2 == address.StreetAddress2 && e.AptNo == address.AptNo).OrderByDescending(x => x.Id).FirstOrDefault();
+            if (address1 != null)
+            {
+                addressid = address1.Id;
+            }
+            return addressid;
         }
     }
 }
